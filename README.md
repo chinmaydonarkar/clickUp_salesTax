@@ -154,8 +154,7 @@ This project is licensed under the ISC License.
 
 ## Author
 
-[Your Name]
-
+Chinmay Donarkar
 ## Acknowledgments
 
 - Inspired by the Sales Tax problem 
